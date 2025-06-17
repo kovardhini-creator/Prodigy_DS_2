@@ -6,7 +6,7 @@
 
 # Objective
 
--- To visualize the distribution of age between people who survived and those who did not using a violin plot. This helps to understand the age-based survival pattern using a visually rich and detailed chart.
+ To visualize the distribution of age between people who survived and those who did not using a violin plot. This helps to understand the age-based survival pattern using a visually rich and detailed chart.
 
 
 # Project Summary
